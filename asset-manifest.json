@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.063e09ce.css",
-    "main.js": "./static/js/main.c66c1ecf.js",
+    "main.css": "./static/css/main.fd68af48.css",
+    "main.js": "./static/js/main.b592a678.js",
     "static/media/logo.svg": "./static/media/logo.51cbb1be41f1fb02f221cf043ab59ab0.svg",
     "static/media/product-not-found.png": "./static/media/product-not-found.8214da88616b09290166.png",
     "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
@@ -15,20 +15,17 @@
     "static/media/category-phones.png": "./static/media/category-phones.9e913039f5c6a4866001.png",
     "static/media/page-not-found.png": "./static/media/page-not-found.6f5b123471bc09721371.png",
     "static/media/cart.svg": "./static/media/cart.fbb7bb4b7513df420fa1dcc67ff28eb0.svg",
-    "static/media/heart.svg": "./static/media/heart.28f6088c83570782c6af97ed6ee84f70.svg",
+    "static/media/heart.svg": "./static/media/heart.a4a2a97127294f1322b0101962e30089.svg",
     "static/media/home.svg": "./static/media/home.901f72c9436f9e8c63573838c422c80d.svg",
-    "static/media/cross.svg": "./static/media/cross.c89cd55fcda471b596c2997cc48e5674.svg",
+    "static/media/cross.svg": "./static/media/cross.03cd1570b98c65072621c592ea911e29.svg",
     "static/media/burger.svg": "./static/media/burger.ccd1a9542b5bc584f2a1c0456d816ec9.svg",
-    "static/media/arrow-down-dark-gray.svg": "./static/media/arrow-down-dark-gray.6e4b28ea22939ec09dd83c6cbe56dc8a.svg",
-    "static/media/arrow-down-light-gray.svg": "./static/media/arrow-down-light-gray.d34d23c6ec6b2fc56d8e.svg",
-    "static/media/arrow-back-dark-gray.svg": "./static/media/arrow-back-dark-gray.31f074c6be5c844b32133d41597b293e.svg",
-    "static/media/arrow-back-white.svg": "./static/media/arrow-back-white.594aaed50078a31117a2eb61ba1cee75.svg",
+    "static/media/arrow.svg": "./static/media/arrow.46493bf6b88928dec7cd36f11e3070cf.svg",
     "index.html": "./index.html",
-    "main.063e09ce.css.map": "./static/css/main.063e09ce.css.map",
-    "main.c66c1ecf.js.map": "./static/js/main.c66c1ecf.js.map"
+    "main.fd68af48.css.map": "./static/css/main.fd68af48.css.map",
+    "main.b592a678.js.map": "./static/js/main.b592a678.js.map"
   },
   "entrypoints": [
-    "static/css/main.063e09ce.css",
-    "static/js/main.c66c1ecf.js"
+    "static/css/main.fd68af48.css",
+    "static/js/main.b592a678.js"
   ]
 }
