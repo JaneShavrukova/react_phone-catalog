@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.fd68af48.css",
-    "main.js": "./static/js/main.b592a678.js",
+    "main.css": "./static/css/main.ffb1d1c1.css",
+    "main.js": "./static/js/main.f2f5daab.js",
     "static/media/logo.svg": "./static/media/logo.51cbb1be41f1fb02f221cf043ab59ab0.svg",
     "static/media/product-not-found.png": "./static/media/product-not-found.8214da88616b09290166.png",
     "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
@@ -19,13 +19,15 @@
     "static/media/home.svg": "./static/media/home.901f72c9436f9e8c63573838c422c80d.svg",
     "static/media/cross.svg": "./static/media/cross.03cd1570b98c65072621c592ea911e29.svg",
     "static/media/burger.svg": "./static/media/burger.ccd1a9542b5bc584f2a1c0456d816ec9.svg",
+    "static/media/plus.svg": "./static/media/plus.b090412acbac4f69037d51bf097d6a12.svg",
     "static/media/arrow.svg": "./static/media/arrow.46493bf6b88928dec7cd36f11e3070cf.svg",
+    "static/media/minus.svg": "./static/media/minus.bc297abd2dcc97944c7f8b9ebb7d29fc.svg",
     "index.html": "./index.html",
-    "main.fd68af48.css.map": "./static/css/main.fd68af48.css.map",
-    "main.b592a678.js.map": "./static/js/main.b592a678.js.map"
+    "main.ffb1d1c1.css.map": "./static/css/main.ffb1d1c1.css.map",
+    "main.f2f5daab.js.map": "./static/js/main.f2f5daab.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd68af48.css",
-    "static/js/main.b592a678.js"
+    "static/css/main.ffb1d1c1.css",
+    "static/js/main.f2f5daab.js"
   ]
 }
