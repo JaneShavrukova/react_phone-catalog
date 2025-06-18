@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.18852ebe.css",
-    "main.js": "./static/js/main.ecbe68ad.js",
+    "main.css": "./static/css/main.a6a69ddf.css",
+    "main.js": "./static/js/main.4f9bff43.js",
     "static/media/logo.svg": "./static/media/logo.51cbb1be41f1fb02f221cf043ab59ab0.svg",
     "static/media/product-not-found.png": "./static/media/product-not-found.8214da88616b09290166.png",
     "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
@@ -16,19 +16,20 @@
     "static/media/page-not-found.png": "./static/media/page-not-found.6f5b123471bc09721371.png",
     "static/media/cart-is-empty.png": "./static/media/cart-is-empty.86ebaf664449a2f61e5e.png",
     "static/media/cart.svg": "./static/media/cart.fbb7bb4b7513df420fa1dcc67ff28eb0.svg",
-    "static/media/heart.svg": "./static/media/heart.a4a2a97127294f1322b0101962e30089.svg",
+    "static/media/heart.svg": "./static/media/heart.d531f3fd3aa557739634c1d4835dccd4.svg",
     "static/media/home.svg": "./static/media/home.901f72c9436f9e8c63573838c422c80d.svg",
+    "static/media/heart_fulfilled.svg": "./static/media/heart_fulfilled.a50cb178e4751a64f2150e19764fd508.svg",
     "static/media/cross.svg": "./static/media/cross.03cd1570b98c65072621c592ea911e29.svg",
     "static/media/burger.svg": "./static/media/burger.ccd1a9542b5bc584f2a1c0456d816ec9.svg",
     "static/media/plus.svg": "./static/media/plus.b090412acbac4f69037d51bf097d6a12.svg",
     "static/media/arrow.svg": "./static/media/arrow.46493bf6b88928dec7cd36f11e3070cf.svg",
     "static/media/minus.svg": "./static/media/minus.bc297abd2dcc97944c7f8b9ebb7d29fc.svg",
     "index.html": "./index.html",
-    "main.18852ebe.css.map": "./static/css/main.18852ebe.css.map",
-    "main.ecbe68ad.js.map": "./static/js/main.ecbe68ad.js.map"
+    "main.a6a69ddf.css.map": "./static/css/main.a6a69ddf.css.map",
+    "main.4f9bff43.js.map": "./static/js/main.4f9bff43.js.map"
   },
   "entrypoints": [
-    "static/css/main.18852ebe.css",
-    "static/js/main.ecbe68ad.js"
+    "static/css/main.a6a69ddf.css",
+    "static/js/main.4f9bff43.js"
   ]
 }
